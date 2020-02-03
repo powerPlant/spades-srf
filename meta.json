@@ -1,0 +1,21 @@
+{
+    "git_url": "git@github:powerPlant/spades-srf.git",
+    "web_url": "https://github.com/powerPlant/spades-srf",
+    "target_home_url": "",
+    "target_monitoring_url": "",
+    "git_repo": 0,
+    "current_versions": [],   
+    "additional_parameters": {
+        
+    },
+    "dispatched_builds": [],
+    "whitelisted_releases": [],
+    "blacklisted_releases": [],
+    "release_policy": "blacklist",
+    "polling_schedule": "@weekly",
+    "target_host": "",
+    "git_author": "",
+    "git_repo_name": "",
+    "template_version": ""
+}
+
